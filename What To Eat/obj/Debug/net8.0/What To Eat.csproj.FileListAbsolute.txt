@@ -1,0 +1,14 @@
+C:\Users\ramse\source\repos\What To Eat\What To Eat\bin\Debug\net8.0\What To Eat.exe
+C:\Users\ramse\source\repos\What To Eat\What To Eat\bin\Debug\net8.0\What To Eat.deps.json
+C:\Users\ramse\source\repos\What To Eat\What To Eat\bin\Debug\net8.0\What To Eat.runtimeconfig.json
+C:\Users\ramse\source\repos\What To Eat\What To Eat\bin\Debug\net8.0\What To Eat.dll
+C:\Users\ramse\source\repos\What To Eat\What To Eat\bin\Debug\net8.0\What To Eat.pdb
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\What To Eat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\What To Eat.AssemblyInfoInputs.cache
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\What To Eat.AssemblyInfo.cs
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\What To Eat.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\What To Eat.dll
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\refint\What To Eat.dll
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\What To Eat.pdb
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\What To Eat.genruntimeconfig.cache
+C:\Users\ramse\source\repos\What To Eat\What To Eat\obj\Debug\net8.0\ref\What To Eat.dll
